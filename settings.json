@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/divya/anaconda3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.terminal.activateEnvironment": false
+}
